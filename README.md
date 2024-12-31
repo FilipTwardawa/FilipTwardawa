@@ -44,9 +44,9 @@
   <img src="./stats.png"  />
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=FilipTwardawa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=FilipTwardawa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FilipTwardawa&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipTwardawa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipTwardawa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
